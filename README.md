@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mamta Sharma</h1>
 <h3 align="center">Data Analyst/Data Scientist</h3>
 
-<img align="right" alt="coding" width="400" sre="https://th.bing.com/th/id/R.7534a223d4d87a3afd98d83cd7a273ad?rik=EiOCT4agT%2fTyhw&riu=http%3a%2f%2fwww.rapportthailand.com%2fteam%2fAMD-no2.png&ehk=uv63l%2f2h9QD5Ms023dInwsk2nz8%2fd2%2fiEDpcAYrJ2dg%3d&risl=&pid=ImgRaw&r=0">
+<img align="right" alt="coding" width="400" sre="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif">
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mamta126](https://github.com/Mamta126)
